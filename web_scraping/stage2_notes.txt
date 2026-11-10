@@ -1,0 +1,9 @@
+What you want                                     Tag               Identifying class / id / attribute
+The box holding one whole book                    article                  produt_pod
+The book's full title                                 a                    title
+The link to the book's own page                       a                    href
+The price                                             p                    price_color
+The star rating                                       p                    Star-rating
+Stock availability                                    p                    instock availability     
+The 'next' button at the bottom                       li                   next
+The category links in the left sidebar                ul                   nav nav-list
